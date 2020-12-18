@@ -1,0 +1,12 @@
+Using JavaScript to build a program while using Git for version control.
+
+The program will generate anime female characters with random attributes.
+
+The attributes will include:
+- Hair colour
+- Hair length
+- Eye colour
+- Personality
+
+Example output:
+She has shoulder-length blonde hair. Her eyes are blue colour. She is a determined person.
