@@ -10,3 +10,13 @@ The attributes will include:
 
 Example output:
 She has shoulder-length blonde hair. Her eyes are blue colour. She is a determined person.
+
+
+new topic idea:
+scene generator
+
+location: forest, city, lakeside
+time: night, day
+person: none, one, two...
+action: looking, walking, running
+subject: self, sky, another person, item...
