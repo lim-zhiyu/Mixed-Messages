@@ -15,8 +15,10 @@ She has shoulder-length blonde hair. Her eyes are blue colour. She is a determin
 new topic idea:
 scene generator
 
-location: forest, city, lakeside
-time: night, day
+location: forest, lake, lakeside, mansion, library, hallway, rooftop, basement, snowy mountain, secluded village, misty forest, above the clouds, long staircase, cherry blossom forest, forest path, bustling village, bamboo forest, space, moon, green farmland, riverside, waterfall, hilltop, shinto shrine, inside a majestic building with many pillars
+time: night, day, evening, dawn, dusk
 person: none, one, two...
-action: looking, walking, running
-subject: self, sky, another person, item...
+position: standing, sitting, walking, running, fleeing, flying, floating, sneaking
+action: looking, fighting, cooking, building, escaping, strolling around, shopping, relaxing, reading manga, checking the phone, playing video games, repairing electronic devices, constructing electronic devices, drinking tea, eating a slice of cake, studying, chit-chatting with others, conversing with important person, welcoming guests, baking a cake
+subject: 
+Example output:

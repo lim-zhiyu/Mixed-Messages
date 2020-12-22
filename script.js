@@ -1,6 +1,6 @@
 const animeGirlGenerator = {
     hairColour: ['black', 'brown', 'blonde', 'white', 'pink', 'blue', 'red', 'orange', 'green'],
-    hairStyle: ['loose long hair'],
+    hair: ['short', 'long', 'bun', 'ponytails'],
     eyeColour: [],
     personality: []
 };
