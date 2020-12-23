@@ -1,5 +1,6 @@
 Using JavaScript to build a program while using Git for version control.
 
+Topic idea 1:
 The program will generate anime female characters with random attributes.
 
 The attributes will include:
@@ -12,13 +13,24 @@ Example output:
 She has shoulder-length blonde hair. Her eyes are blue colour. She is a determined person.
 
 
-new topic idea:
+Topic idea 2:
 scene generator
 
 location: forest, lake, lakeside, mansion, library, hallway, rooftop, basement, snowy mountain, secluded village, misty forest, above the clouds, long staircase, cherry blossom forest, forest path, bustling village, bamboo forest, space, moon, green farmland, riverside, waterfall, hilltop, shinto shrine, inside a majestic building with many pillars
-time: night, day, evening, dawn, dusk
-person: none, one, two...
+time: dawn, morning, noon, afternoon, evening, dusk, night, midnight
+numberOfPerson: zero, one, two, more than two
 position: standing, sitting, walking, running, fleeing, flying, floating, sneaking
 action: looking, fighting, cooking, building, escaping, strolling around, shopping, relaxing, reading manga, checking the phone, playing video games, repairing electronic devices, constructing electronic devices, drinking tea, eating a slice of cake, studying, chit-chatting with others, conversing with important person, welcoming guests, baking a cake
-subject: 
+
 Example output:
+
+
+Topic idea 3:
+My Original Character generator
+
+height: very short, short, medium, tall
+hairColour: black, brown, blonde, red, grey, white, silver, blue, pink, green, purple, orange
+eyesColour: blue, green, hazel, brown, amber, yellow, orange, violet, copper
+bustSize: flat, AA, A, B, C
+weapon: none, sword, gun, greatsword, mech, magic, gauntlet, scythe, spear, bow
+theme: shinto, witch, youkai, fairy, chinese, sorceress, maid, vampire,
