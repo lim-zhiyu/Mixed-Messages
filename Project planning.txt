@@ -26,11 +26,18 @@ Example output:
 
 
 Topic idea 3:
-My Original Character generator
+My original character design idea generator
 
 height: very short, short, medium, tall
 hairColour: black, brown, blonde, red, grey, white, silver, blue, pink, green, purple, orange
+hairLength: short, shoulder-length, back-length, waist-length, hip-length, calf-length
+hairStyle: straight, flow, ponytail, twintails, pigtails, braided, drills
+ahoge: yes, no
+bang: yes, no
+hairAccessory: none, ribbon, hairband, hairclip
 eyesColour: blue, green, hazel, brown, amber, yellow, orange, violet, copper
 bustSize: flat, AA, A, B, C
 weapon: none, sword, gun, greatsword, mech, magic, gauntlet, scythe, spear, bow
 theme: shinto, witch, youkai, fairy, chinese, sorceress, maid, vampire,
+
+TODO: need more research on generating hairstyle ideas
