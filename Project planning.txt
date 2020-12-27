@@ -41,3 +41,43 @@ weapon: none, sword, gun, greatsword, mech, magic, gauntlet, scythe, spear, bow
 theme: shinto, witch, youkai, fairy, chinese, sorceress, maid, vampire,
 
 TODO: need more research on generating hairstyle ideas
+
+
+
+Topic idea 4:
+Passerby NPC generator
+1. Ask the user to choose between contemporary and fantasy
+2a. If contemporary is chosen...
+    gender: male, female
+    ageGroup: child, youngster, adult, elder
+    occupationType: jobless, education, business, culinary, cleaning, medical, manufacturing, entertainment, mass media, literature, farming, service industry, politic, scientific, criminal, law
+    nature: hardy, lonely, brave, adamant, naughty, bold, docile, relaxed, impish, lax, timid, hasty, serious, jolly, naive, modest, mild, quiet, bashful, rash, calm, gentle, sassy, careful, quirky
+
+2b. If fantasy is chosen...
+    3b. Ask the user if nonHuman character exists (future improvement: allow the user to specify what types of nonhuman races are available)
+    nonHuman: yes, no
+        if nonHuman is yes...
+        feline, canine, dragonoid, demon, elf... (these are just examples of nonhuman races)
+    occupationType: jobless, trading, adventurer, espionage, magical, religious, royalty, 
+
+
+
+(all previous topics seem too ambitious... I don't like to half-ass them)
+
+Topic idea 5: luck generator
+
+Ask user to input name, birth year, month, and day
+
+Output the following:
+
+name
+
+health: drink more water, get more sleep, eat more healthy
+
+job: 
+
+love: do i really want to include this...?
+
+wish: work hard for it, don't forget your original intention, try a new method if stuck, try to think outside of the box
+
+overall luck: good, bad...
