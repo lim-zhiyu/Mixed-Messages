@@ -62,22 +62,25 @@ Passerby NPC generator
 
 
 
-(all previous topics seem too ambitious... I don't like to half-ass them)
+(all previous topics seem too ambitious... I don't feel like half-assing them)
 
-Topic idea 5: luck generator
+Topic idea 5: My luck generator
 
-Ask user to input name, birth year, month, and day
+Ask user to input name
 
 Output the following:
 
-name
+<name>
 
-health: drink more water, get more sleep, eat more healthy
+Health: drink more water, get better sleep, eat healthier food, exercise more
 
-job: 
+Gacha: go for it, now is not the time, don't spend all resources in one go, wait a bit longer
 
-love: do i really want to include this...?
+Long-term goal: continue to work hard on it, try to remember why you want to do it in the first place, try a different approach if stuck, share your progress with a friend
 
-wish: work hard for it, don't forget your original intention, try a new method if stuck, try to think outside of the box
+Overall luck: good, very good, normal, bad, very bad
 
-overall luck: good, bad...
+Additional comment (depends on Overall luck):
+    bad or very bad: think twice before you do something important, don't do something reckless
+    normal: don't be afraid of unforseen events, face it head on!
+    good or very good: good day to try out something new
