@@ -12,16 +12,34 @@ const selectRandomMessage = (array) => {
 };
 
 const displayMessage = () => {
+    const overallLuck = selectRandomMessage(luckGeneratorMessages.overallLuck);
+
     console.log('Hello Lunar, here is your luck prediction for today:\n');
     console.log('Health: You should ' + selectRandomMessage(luckGeneratorMessages.health) + '.');
     console.log('Gacha: ' + selectRandomMessage(luckGeneratorMessages.gacha) + '.');
     console.log('Long-term goal: ' + selectRandomMessage(luckGeneratorMessages.longTermGoal) + '.');
-    console.log('Overall luck: ' + selectRandomMessage(luckGeneratorMessages.overallLuck) + '.');
+    console.log(`Overall luck: ${overallLuck}.\n`);
+
+    switch (overallLuck) {
+        case 'Good':
+            console.log("Everything will be fine, stay cool!");
+            break;
+        case 'Very good':
+            console.log("It's a good day to try out something new!");
+            break;
+        case 'Normal':
+            console.log("Do not fear the unforseen, just do it!");
+            break;
+        case "Bad":
+            console.log("Try not to be reckless today!");
+            break;
+        case 'Very bad':
+            console.log("Think twice before doing important things!");
+            break;
+        default:
+            console.log("Error: Unexpected value of variable overallLuck.");
+            break;
+    }
 };
-
-
-
-//TODO
-//add additional comments based on overall luck
 
 displayMessage();
