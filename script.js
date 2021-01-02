@@ -14,7 +14,7 @@ const selectRandomMessage = (array) => {
 const displayMessage = () => {
     const overallLuck = selectRandomMessage(luckGeneratorMessages.overallLuck);
 
-    console.log('Hello Lunar, here is your luck prediction for today:\n');
+    console.log('Hello user, here is your luck prediction for today:\n');
     console.log('Health: You should ' + selectRandomMessage(luckGeneratorMessages.health) + '.');
     console.log('Gacha: ' + selectRandomMessage(luckGeneratorMessages.gacha) + '.');
     console.log('Long-term goal: ' + selectRandomMessage(luckGeneratorMessages.longTermGoal) + '.');
@@ -31,7 +31,7 @@ const displayMessage = () => {
             console.log("Do not fear the unforseen, just do it!");
             break;
         case "Bad":
-            console.log("Try not to be reckless today!");
+            console.log("Try not to act recklessly!");
             break;
         case 'Very bad':
             console.log("Think twice before doing important things!");
