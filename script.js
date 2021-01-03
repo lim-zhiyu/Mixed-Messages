@@ -1,3 +1,4 @@
+// An object to store the messages.
 const luckGeneratorMessages = {
     health: ['drink more water', 'get better sleeps', 'eat healthier food', 'exercise more'],
     gacha: ['Go for it', 'Now is not the time', "Don't spend all resources in one go", 'Wait a bit longer'],
@@ -5,12 +6,13 @@ const luckGeneratorMessages = {
     overallLuck: ['Good', 'Very good', 'Normal', 'Bad', 'Very bad']
 };
 
+// Returns a random index number based on the argument array.
 const selectRandomMessage = (array) => {
-    
     const randomIndex = Math.floor(Math.random() * array.length);
     return array[randomIndex];
 };
 
+// Displays the message in a fixed format. The result of each luck category is randomised. Also displays additional message based on the result of "Overall luck".
 const displayMessage = () => {
     const overallLuck = selectRandomMessage(luckGeneratorMessages.overallLuck);
 
