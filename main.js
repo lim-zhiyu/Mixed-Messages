@@ -1,6 +1,6 @@
 // An object to store the messages.
 const fortuneGeneratorMessages = {
-    health: ['drink more water', 'get better sleeps', 'eat healthier food', 'exercise more', 'avoid crowded places'],
+    health: ['drink more water', 'get better sleeps', 'eat healthier food', 'exercise more', 'avoid visiting crowded places too often'],
     gacha: ['Go for it', 'Now is not the time', "Now or never", "Don't spend all your resources in one go", 'Wait a bit longer'],
     longTermGoal: ['Continue to work hard on it', 'Try to remember why you want to do it in the first place', 'Try a different approach if stuck', 'Share your progress with a friend', 'consistency is the key'],
     overallLuck: ['Good', 'Very good', 'Normal', 'Bad', 'Very bad']
