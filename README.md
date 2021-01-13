@@ -1,6 +1,6 @@
 # Fortune Generator
 ## General info
-This is a simple program that outputs a random fortune result when run. This program is written for Cadecademy's "Mixed Messages" portfolio project. The porpose of this project is to familiarise myself with JavaScript, Markdown, Git, and GitHub.
+This is a simple program that outputs a random fortune result when run. This program is written for Cadecademy's "Mixed Messages" portfolio project. The porpose of this project is to familiarise myself with **JavaScript**, **Markdown**, **Git**, and **GitHub**.
 
 ## Technologies
 The program is created with:
